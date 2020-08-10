@@ -20,7 +20,7 @@ Lane Detection
 
 ## 2020
 
-[Heatmap-based Vanishing Point boosts Lane Detection](https://arxiv.org/abs/2007.15602)
+[Heatmap-based Vanishing Point boosts Lane Detection](https://arxiv.org/abs/2007.15602) 基于热图的消失点来强化车道线检测
 
 [Synthetic-to-Real Domain Adaptation for Lane Detection](https://arxiv.org/abs/2007.04023)
 
